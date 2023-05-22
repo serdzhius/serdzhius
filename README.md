@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://yagooru.com/upload/iblock/86f/Ris.-1-Primer-adaptivnoy-verstki.png" align="center" style="width: 100%" />
+<img src="https://yagooru.com/upload/iblock/86f/Ris.-1-Primer-adaptivnoy-verstki.png" align="center" style="width: 20%" />
 </div>  
   
 
